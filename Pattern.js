@@ -1,4 +1,8 @@
 /** 
+
+
+Square Star Pattern in Javascript
+
 *****
 *****
 *****
@@ -6,6 +10,8 @@
 *****
 
 */
+
+
 
 
 function generatePattern(n){
